@@ -16,6 +16,6 @@ package main
 //  2. Observe whether something happens when you don't
 //     use it
 // ---------------------------------------------------------
-
+var name string = "Cole"
 func main() {
 }
